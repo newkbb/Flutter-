@@ -58,8 +58,8 @@ Widget可以被定义为:
 
 3.2 构建Widget
 
-详见
+详见Flutter中文网。
 
-[https://flutterchina.club/technical-overview/]: Flutter中文网
+https://flutterchina.club/technical-overview/
 
 
